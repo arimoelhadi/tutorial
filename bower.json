@@ -1,0 +1,31 @@
+{
+  "name": "tutorial",
+  "version": "0.0.1",
+  "authors": [
+    "fakhri.moelhadi@gmail.com"
+  ],
+  "description": "angular tutorial ari",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "angular",
+    "tutorial"
+  ],
+  "license": "MIT",
+  "homepage": "http://localhost/TAC/tutorial/angular_tutorial",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "modernizr": "~2.8.3",
+    "angular": "~1.2.23",
+    "bootstrap": "~3.2.0",
+    "fontawesome": "~4.2.0",
+    "jquery": "~2.1.1"
+  }
+}

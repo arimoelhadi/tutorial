@@ -1,0 +1,24 @@
+{
+  "name": "tutorial",
+  "version": "0.0.1",
+  "description": "angular tutorial ari",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arimoelhadi/tutorial"
+  },
+  "keywords": [
+    "tutorial",
+    "angular",
+    "ari"
+  ],
+  "author": "ari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arimoelhadi/tutorial/issues"
+  },
+  "homepage": "https://github.com/arimoelhadi/tutorial"
+}
